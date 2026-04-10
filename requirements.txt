@@ -7,3 +7,5 @@ uvicorn
 fastapi
 joblib
 # ML Ops
+dvc
+dvc_s3
